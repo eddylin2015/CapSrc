@@ -1,0 +1,16 @@
+bin/
+packages/
+json/
+xml/
+.vs/
+obj/
+Debug/
+CAPTURESRC/
+
+CapSrc/bin/
+CapSrc/packages/
+CapSrc/json/
+CapSrc/xml/
+CapSrc/.vs/
+CapSrc/obj/
+CapSrc/Debug/
